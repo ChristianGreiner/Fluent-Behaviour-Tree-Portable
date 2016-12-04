@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.1</version>
+    <title>$title$</title>
+    <authors>Cross, Code Capers</authors>
+    <owners>Cross, Code Capers</owners>
+    <licenseUrl>https://raw.githubusercontent.com/ChristianGreiner/Fluent-Behaviour-Tree-Portable/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ChristianGreiner/Fluent-Behaviour-Tree-Portable</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Behaviour tree library with a fluent API for C#.</description>
+    <releaseNotes>Small bugfix</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>C# fluent api behaviour behavior tree</tags>
+  </metadata>
+</package>

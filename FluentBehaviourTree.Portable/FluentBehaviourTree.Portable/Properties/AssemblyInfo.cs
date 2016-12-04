@@ -7,14 +7,14 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("FluentBehaviourTree.Portable")]
-[assembly: AssemblyDescription("C# behaviour tree library with a fluent API.")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("FluentBehaviourTree.Portable")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: NeutralResourcesLanguage("de")]
+[assembly: NeutralResourcesLanguage("")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //
