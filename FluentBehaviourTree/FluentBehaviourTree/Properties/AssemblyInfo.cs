@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über folgende 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("FluentBehaviourTree")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("FluentBehaviourTree.Portable")]
+[assembly: AssemblyDescription("C# behaviour tree library with a fluent API.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FluentBehaviourTree")]
+[assembly: AssemblyProduct("FluentBehaviourTree.Portable")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

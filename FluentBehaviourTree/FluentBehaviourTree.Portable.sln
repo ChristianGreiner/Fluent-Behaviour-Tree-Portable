@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBehaviourTree", "FluentBehaviourTree\FluentBehaviourTree.csproj", "{1124067D-5342-4F69-A268-CA4F5F26B3A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBehaviourTree.Portable", "FluentBehaviourTree\FluentBehaviourTree.Portable.csproj", "{1124067D-5342-4F69-A268-CA4F5F26B3A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
