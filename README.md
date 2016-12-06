@@ -19,9 +19,7 @@ Here are some resources to help you understand behaviour trees:
 
 In the Visual Studio [Package Manager Console](http://docs.nuget.org/consume/package-manager-console):
 
-	PM> Install-Package FluentBehaviourTree
-
-Or clone or download the code from [the github repository](https://github.com/codecapers/fluent-behaviour-tree).
+	PM> Install-Package FluentBehaviourTree.Portable
 
 ## Creating a Behaviour Tree
 
